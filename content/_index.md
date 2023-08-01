@@ -69,8 +69,8 @@ sections:
           date_end: '2020-08-25'
           description: |2-
               * Used Bayesian non-parametric models to estimate poverty in Dar es Salaam, Tanzania.
-    	        * Contributed towards [R package BSBT](github.com/rowlandseymour/BSBT) available on CRAN.
-    	        * Developed efficient algorithms incorporating the Bradley-Terry model to allow for rapid simulations using large volumes of data.
+              * Contributed towards [R package BSBT](github.com/rowlandseymour/BSBT) available on CRAN.
+              * Developed efficient algorithms incorporating the Bradley-Terry model to allow for rapid simulations using large volumes of data.
     design:
       columns: '2'
   - block: accomplishments
