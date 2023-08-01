@@ -4,13 +4,13 @@ title: Embedding High Resolution Variability into a Climate Simulation
 event: Fusing Simulation with Data Science
 event_url: https://warwick.ac.uk/fac/sci/statistics/news/fsds/
 
-location: Wowchemy HQ
+location: University of Warwick
 address:
-  street: 450 Serra Mall
-  city: Stanford
-  region: CA
-  postcode: '94305'
-  country: United States
+  street: a
+  city: b
+  region: c
+  postcode: '1'
+  country: d
 
 summary: An example talk using Wowchemy's Markdown slides feature.
 abstract: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam.'
