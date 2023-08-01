@@ -57,7 +57,7 @@ url_video: ''
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects:
-  - Weather/Climate
+  - Weather
 ---
 
 {{% callout note %}}
