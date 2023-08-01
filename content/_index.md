@@ -39,8 +39,18 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
+        - title: Data Detectives Ambassador
+          company: UCL - Department of Statistical Science
+          company_url: 'https://www.ucl.ac.uk/statistics/data-detectives'
+          company_logo: University_College_London_logo
+          location: London
+          date_start: '2023-07-03'
+          date_end: '2023-07-07'
+          description: |2-
+              * Facilitated week-long workshop introducing A-level students to R and RStudio.
+              * Discussed university life and promoted academia through my experiences.
         - title: Journal Club Officer
-          company: UCL AI Society
+          company: UCL - AI Society
           company_url: 'https://uclaisociety.co.uk'
           company_logo: ai_soc_logo
           location: London
@@ -50,14 +60,17 @@ sections:
               * Organised a journal club within UCL's student run AI society.
               * Hosted internationally recognised researchers including Prof. Marc Deisenroth (UCL), Prof. Andrew Davison (Imperial) and Dr. Raphael Köster (DeepMind).
               * Assisted with organising [ClimateHack.ai](https://climatehack.ai) in Spring 2022, the inaugural student-run climate themed hackathon.
-        - title: Professor of Semiconductor Physics
-          company: University X
-          company_url: ''
-          company_logo: org-x
-          location: California
-          date_start: '2016-01-01'
-          date_end: '2020-12-31'
-          description: Taught electronic engineering and researched semiconductor physics.
+        - title: Research Assistant
+          company: University of Nottingham - School of Mathematical Sciences
+          company_url: 'https://www.nottingham.ac.uk/mathematics/'
+          company_logo: nottingham-logo
+          location: Nottingham
+          date_start: '2020-07-01'
+          date_end: '2020-08-25'
+          description: |2-
+              * Used Bayesian non-parametric models to estimate poverty in Dar es Salaam, Tanzania.
+    	        * Contributed towards [R package BSBT](github.com/rowlandseymour/BSBT) available on CRAN.
+    	        * Developed efficient algorithms incorporating the Bradley-Terry model to allow for rapid simulations using large volumes of data.
     design:
       columns: '2'
   - block: accomplishments
