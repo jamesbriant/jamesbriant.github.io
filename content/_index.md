@@ -43,7 +43,7 @@ sections:
           company: UCL - Department of Statistical Science
           company_url: 'https://www.ucl.ac.uk/statistics/data-detectives'
           company_logo: University_College_London_logo
-          location: London
+          location: London, UK
           date_start: '2023-07-03'
           date_end: '2023-07-07'
           description: |2-
@@ -53,7 +53,7 @@ sections:
           company: UCL - AI Society
           company_url: 'https://uclaisociety.co.uk'
           company_logo: ai_soc_logo
-          location: London
+          location: London, UK
           date_start: '2021-10-01'
           date_end: '2023-05-30'
           description: |2-
@@ -64,13 +64,23 @@ sections:
           company: University of Nottingham - School of Mathematical Sciences
           company_url: 'https://www.nottingham.ac.uk/mathematics/'
           company_logo: nottingham-logo
-          location: Nottingham
+          location: Nottingham, UK
           date_start: '2020-07-01'
           date_end: '2020-08-25'
           description: |2-
               * Used Bayesian non-parametric models to estimate poverty in Dar es Salaam, Tanzania.
               * Contributed towards [R package BSBT](github.com/rowlandseymour/BSBT) available on CRAN.
               * Developed efficient algorithms incorporating the Bradley-Terry model to allow for rapid simulations using large volumes of data.
+        - title: Machine Intelligence & Robotics Global Summer School
+          company: Shanghai Jiao Tong University
+          company_url: 'https://global.sjtu.edu.cn/en/studyatSJTU/session/394'
+          company_logo: sjtu
+          location: Shanghai, China
+          date_start: '2019-07-11'
+          date_end: '2019-08-02'
+          description: |2-
+              * Attended 3-week summer programme which introduced theories and methods in AI and machine learning.
+              * Travelled around Shanghai exploring the culture, food and history.
     design:
       columns: '2'
   - block: accomplishments
