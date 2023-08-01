@@ -5,12 +5,12 @@ event: Fusing Simulation with Data Science
 event_url: https://warwick.ac.uk/fac/sci/statistics/news/fsds/
 
 location: University of Warwick
-# address:
-#  street: 450 Serra Mall
-#  city: Stanford
-#  region: CA
-#  postcode: '94305'
-#  country: United States
+address:
+ street: 
+ city: 
+ region: 
+ postcode: ''
+ country: 
 
 summary: Fusion of machine learning and a climate model to embed high resolution variability into a coarse resolution climate simulation.
 abstract: 'Underrepresentation of cloud formation is a known failing in current Climate simulations. This is due to the coarse grid resolution which is required due to the computational constraint of integrating over long time scales but does not permit the underlying cloud generating physical processes. This work employs a multi-output Gaussian Process (MOGP) trained on high resolution Unified Model (UM) runs and predicts the variability of temperature and specific humidity fields. A proof of concept study has been carried out where a trained MOGP model is coupled in-situ with a simplified Atmospheric General Circulation Model (AGCM) named SPEEDY. The temperature and specific humidity profiles of the SPEEDY model outputs are perturbed at each timestep according to the predicted high resolution informed variability. 10-year forecasts are generated for both default SPEEDY and fused SPEEDY models and output fields compared ensuring fused predictions remain representative of Earth's atmosphere. Some changes in the precipitation, outgoing longwave and shortwave radiation patterns are observed indicating modelling improvements in the complex region surrounding India and the Indian sea.'
