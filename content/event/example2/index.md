@@ -1,8 +1,8 @@
 ---
-title: Example Talk
+title: Embedding High Resolution Variability into a Climate Simulation
 
-event: Wowchemy Conference
-event_url: https://example.org
+event: Fusing Simulation with Data Science
+event_url: https://warwick.ac.uk/fac/sci/statistics/news/fsds/
 
 location: Wowchemy HQ
 address:
