@@ -5,12 +5,12 @@ event: Fusing Simulation with Data Science
 event_url: https://warwick.ac.uk/fac/sci/statistics/news/fsds/
 
 location: University of Warwick
-address:
-  street: a
-  city: b
-  region: c
-  postcode: 'd'
-  country: e
+# address:
+#   street: a
+#   city: b
+#   region: c
+#   postcode: 'd'
+#   country: e
 
 summary: Fusion of machine learning and a climate model to embed high resolution variability into a coarse resolution climate simulation.
 abstract: "Underrepresentation of cloud formation is a known failing in current Climate simulations. This is due to the coarse grid resolution which is required due to the computational constraint of integrating over long time scales but does not permit the underlying cloud generating physical processes. This work employs a multi-output Gaussian Process (MOGP) trained on high resolution Unified Model (UM) runs and predicts the variability of temperature and specific humidity fields. A proof of concept study has been carried out where a trained MOGP model is coupled in-situ with a simplified Atmospheric General Circulation Model (AGCM) named SPEEDY. The temperature and specific humidity profiles of the SPEEDY model outputs are perturbed at each timestep according to the predicted high resolution informed variability. 10-year forecasts are generated for both default SPEEDY and fused SPEEDY models and output fields compared ensuring fused predictions remain representative of Earth's atmosphere. Some changes in the precipitation, outgoing longwave and shortwave radiation patterns are observed indicating modelling improvements in the complex region surrounding India and the Indian sea."
@@ -18,11 +18,11 @@ abstract: "Underrepresentation of cloud formation is a known failing in current 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
 date: '2023-07-19T11:50:00Z'
-date_end: '2023-07-19T12:10:00Z'
+# date_end: '2023-07-19T12:10:00Z'
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: '2017-01-01T00:00:00Z'
+# publishDate: '2017-01-01T00:00:00Z'
 
 authors: []
 tags: []
@@ -30,15 +30,15 @@ tags: []
 # Is this a featured talk? (true/false)
 featured: false
 
-image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
-  focal_point: Right
+# image:
+#   caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
+#   focal_point: Right
 
-links:
-  - icon: twitter
-    icon_pack: fab
-    name: Follow
-    url: https://twitter.com/georgecushen
+# links:
+#   - icon: twitter
+#     icon_pack: fab
+#     name: Follow
+#     url: https://twitter.com/georgecushen
 url_code: ''
 url_pdf: ''
 url_slides: ''
@@ -49,7 +49,7 @@ url_video: ''
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides: example
+# slides: example
 
 # Projects (optional).
 #   Associate this post with one or more of your projects.
@@ -57,19 +57,17 @@ slides: example
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects:
-  - example
+  - Weather/Climate
 ---
 
-<!-- {{% callout note %}}
-Click on the **Slides** button above to view the built-in slides feature.
+{{% callout note %}}
+**Coming Soon:** Slides and video recording coming as soon as paper pre-print is available on Arxiv.
 {{% /callout %}}
 
-Slides can be added in a few ways:
+<!-- Slides can be added in a few ways:
 
 - **Create** slides using Wowchemy's [_Slides_](https://wowchemy.com/docs/managing-content/#create-slides) feature and link using `slides` parameter in the front matter of the talk file
 - **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
 - **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://wowchemy.com/docs/writing-markdown-latex/).
 
 Further event details, including [page elements](https://wowchemy.com/docs/writing-markdown-latex/) such as image galleries, can be added to the body of this page. -->
-
-Slides and video recording coming as soon as paper pre-print is available on Arxiv.
