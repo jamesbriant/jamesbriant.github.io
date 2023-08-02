@@ -1,6 +1,6 @@
 ---
-title: Embedding High Resolution Variability into a Climate Simulation
-summary: Fusion of machine learning and a climate model to embed high resolution variability into a coarse resolution climate simulation.
+title: Upper Atmosphere Modelling with Uncertainty Quantification
+summary: "Employing Gaussian Process emulation and Bayesian Calibration to aid the extension of the Met Office’s Unified Model into the upper atmosphere."
 tags:
   - Calibration
   - Weather
