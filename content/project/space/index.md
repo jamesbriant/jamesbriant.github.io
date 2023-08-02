@@ -2,6 +2,7 @@
 title: Embedding High Resolution Variability into a Climate Simulation
 summary: Fusion of machine learning and a climate model to embed high resolution variability into a coarse resolution climate simulation.
 tags:
+  - Calibration
   - Weather
 # date: "2016-04-27T00:00:00Z"
 
@@ -9,6 +10,6 @@ tags:
 # external_link: https://example.org
 
 image:
-  caption: Photo by James Briant
+  caption: Photo by Noel_Bauza on pixabay
   focal_point: Smart
 ---

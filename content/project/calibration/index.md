@@ -8,9 +8,9 @@ tags:
 # Optional external URL for project (replaces project detail page).
 external_link: ''
 
-# image:
-#   caption: Photo by rawpixel on Unsplash
-#   focal_point: Smart
+image:
+  caption: Image by James Briant
+  focal_point: Smart
 
 # links:
 #   - icon: twitter

@@ -66,9 +66,9 @@ social:
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
-#  - icon: cv
-#    icon_pack: ai
-#    link: uploads/resume.pdf
+  - icon: cv
+    icon_pack: ai
+    link: uploads/CV-censored.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ''
@@ -77,5 +77,5 @@ email: ''
 highlight_name: true
 ---
 
-I am a PhD student in the Department of Statistical Science at UCL. Under the supervision of [Prof. Serge Guillas](https://www.ucl.ac.uk/statistics/people/sergeguillas) and in partnership with the [UK Met Office](https://www.metoffice.gov.uk) I research Gaussian Process emulation of weather and climate models. The goal is to develop tools for calibrating the next generation of [exascale simulation models](https://www.metoffice.gov.uk/research/approach/modelling-systems/lfric).
+I am a PhD student in the Department of Statistical Science at UCL. Under the supervision of [Prof. Serge Guillas](https://www.ucl.ac.uk/statistics/people/sergeguillas) and in partnership with the [UK Met Office](https://www.metoffice.gov.uk) I research Gaussian Process emulation of weather and climate models and Bayesian Calibration procedures for large simulation models. The goal is to develop tools for calibrating the next generation of [exascale simulation models](https://www.metoffice.gov.uk/research/approach/modelling-systems/lfric).
 {style="text-align: justify;"}
