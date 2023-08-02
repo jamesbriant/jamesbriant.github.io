@@ -33,7 +33,7 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Statisatical Science
+    - course: PhD in Statistical Science
       institution: University College London
       year: Present
     - course: MMath in Mathematics with Statistics
