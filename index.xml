@@ -1,4 +1,13 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>James Briant</title><link>https://jamesbriant.github.io/</link><atom:link href="https://jamesbriant.github.io/index.xml" rel="self" type="application/rss+xml"/><description>James Briant</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Aug 2023 00:00:00 +0000</lastBuildDate><image><url>https://jamesbriant.github.io/media/icon_hua3e57709ee188cd8ce6fd9a15087a1ec_6928_512x512_fill_lanczos_center_3.png</url><title>James Briant</title><link>https://jamesbriant.github.io/</link></image><item><title>Bayesian Calibration</title><link>https://jamesbriant.github.io/project/calibration/</link><pubDate>Wed, 02 Aug 2023 00:00:00 +0000</pubDate><guid>https://jamesbriant.github.io/project/calibration/</guid><description>&lt;p>This project aims to extend the &lt;a href="https://rss.onlinelibrary.wiley.com/doi/10.1111/1467-9868.00294" target="_blank" rel="noopener">Kennedy &amp;amp; O’Hagan (2001)&lt;/a> Bayesian Calibration for Computer Models framework by employing advanced computational and latest MCMC techniques.&lt;/p>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>James Briant</title><link>https://jamesbriant.github.io/</link><atom:link href="https://jamesbriant.github.io/index.xml" rel="self" type="application/rss+xml"/><description>James Briant</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Aug 2023 00:00:00 +0000</lastBuildDate><image><url>https://jamesbriant.github.io/media/icon_hua3e57709ee188cd8ce6fd9a15087a1ec_6928_512x512_fill_lanczos_center_3.png</url><title>James Briant</title><link>https://jamesbriant.github.io/</link></image><item><title>SIAM UQ24 - Embedding High Resolution Variability into a Climate Simulation</title><link>https://jamesbriant.github.io/talk/siam-uq24-embedding-high-resolution-variability-into-a-climate-simulation/</link><pubDate>Fri, 01 Mar 2024 17:00:00 +0000</pubDate><guid>https://jamesbriant.github.io/talk/siam-uq24-embedding-high-resolution-variability-into-a-climate-simulation/</guid><description>&lt;div class="alert alert-note">
+&lt;div>
+&lt;strong>Coming Soon:&lt;/strong> Slides and video recording coming as soon as paper pre-print is available on Arxiv.
+&lt;/div>
+&lt;/div>
+&lt;!-- Slides can be added in a few ways:
+- **Create** slides using Wowchemy's [_Slides_](https://wowchemy.com/docs/managing-content/#create-slides) feature and link using `slides` parameter in the front matter of the talk file
+- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
+- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://wowchemy.com/docs/writing-markdown-latex/).
+Further event details, including [page elements](https://wowchemy.com/docs/writing-markdown-latex/) such as image galleries, can be added to the body of this page. --></description></item><item><title>Bayesian Calibration</title><link>https://jamesbriant.github.io/project/calibration/</link><pubDate>Wed, 02 Aug 2023 00:00:00 +0000</pubDate><guid>https://jamesbriant.github.io/project/calibration/</guid><description>&lt;p>This project aims to extend the &lt;a href="https://rss.onlinelibrary.wiley.com/doi/10.1111/1467-9868.00294" target="_blank" rel="noopener">Kennedy &amp;amp; O’Hagan (2001)&lt;/a> Bayesian Calibration for Computer Models framework by employing advanced computational and latest MCMC techniques.&lt;/p>
 &lt;p>The primary goal is to calibrate the UK Met Office&amp;rsquo;s high resolution &lt;a href="https://www.metoffice.gov.uk/research/approach/modelling-systems/unified-model" target="_blank" rel="noopener">Unified Model&lt;/a> using large volumes of data from multiple sources. Intermediate steps will focus on calibrating a far simpler model, likely a nuclear fusion simulation from &lt;a href="https://www.gov.uk/government/organisations/uk-atomic-energy-authority" target="_blank" rel="noopener">UKAEA&lt;/a>.&lt;/p>
 &lt;p>In collaboration with Dr. Matt Graham (UCL), Dr. Mariya Mamajiwala (Sheffield) and Prof. Serge Guillas (UCL).&lt;/p></description></item><item><title>Embedding High Resolution Variability into a Climate Simulation</title><link>https://jamesbriant.github.io/project/clouds/</link><pubDate>Wed, 02 Aug 2023 00:00:00 +0000</pubDate><guid>https://jamesbriant.github.io/project/clouds/</guid><description>&lt;p>This project is developing a novel method to improve representation of cloud formation in climate models. Our method changes the simulated climate and reduces bias in hindcasts.&lt;/p>
 &lt;p>Pre-trained Gaussian Processes learn the temperature and specific humidity fields from high a resolution weather forecast. During the climate model run-time, Gaussian Process predictions add perturbations to climate model fields.&lt;/p>
@@ -160,7 +169,7 @@ console.log('code block');
 &lt;p>Wowchemy supports the popular &lt;a href="https://plot.ly/" target="_blank" rel="noopener">Plotly&lt;/a> format for interactive charts.&lt;/p>
 &lt;p>Save your Plotly JSON in your page folder, for example &lt;code>line-chart.json&lt;/code>, and then add the &lt;code>{{&amp;lt; chart data=&amp;quot;line-chart&amp;quot; &amp;gt;}}&lt;/code> shortcode where you would like the chart to appear.&lt;/p>
 &lt;p>Demo:&lt;/p>
-&lt;div id="chart-782516349" class="chart">&lt;/div>
+&lt;div id="chart-832457961" class="chart">&lt;/div>
 &lt;script>
 (function() {
 let a = setInterval( function() {
@@ -169,7 +178,7 @@ return;
 }
 clearInterval( a );
 Plotly.d3.json("./line-chart.json", function(chart) {
-Plotly.plot('chart-782516349', chart.data, chart.layout, {responsive: true});
+Plotly.plot('chart-832457961', chart.data, chart.layout, {responsive: true});
 });
 }, 500 );
 })();
