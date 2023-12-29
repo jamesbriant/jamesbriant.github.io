@@ -160,6 +160,8 @@ sections:
       filters:
         folders:
           - event
+      sort_by: 'Date'
+      sort_ascending: false
     design:
       columns: '2'
       view: compact

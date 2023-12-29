@@ -34,4 +34,4 @@ This project is developing a novel method to improve representation of cloud for
 
 Pre-trained Gaussian Processes learn the temperature and specific humidity fields from high a resolution weather forecast. During the climate model run-time, Gaussian Process predictions add perturbations to climate model fields.
 
-In collaboration with Dr. Dan Giles (UCL), Dr. Cyril Morcrette (UK Met Office) and Prof. Serge Guillas (UCL). An initial paper being readied for submission in Summer 2023 and more details will be available here after pre-print is available on Arxiv.
+In collaboration with Dr. Dan Giles (UCL), Dr. Cyril Morcrette (UK Met Office) and Prof. Serge Guillas (UCL). An initial paper being readied for submission in early 2024 and more details will be available here after pre-print is available on Arxiv.

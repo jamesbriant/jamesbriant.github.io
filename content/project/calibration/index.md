@@ -30,6 +30,8 @@ url_video: ''
 # slides: example
 ---
 
-This project aims to extend the Kennedy & O’Hagan (2001) Bayesian Calibration framework by employing advanced MCMC techniques for complex simulation models.  
+This project aims to extend the [Kennedy & O’Hagan (2001)](https://rss.onlinelibrary.wiley.com/doi/10.1111/1467-9868.00294) Bayesian Calibration for Computer Models framework by employing advanced computational and latest MCMC techniques.
+
+The primary goal is to calibrate the UK Met Office's high resolution [Unified Model](https://www.metoffice.gov.uk/research/approach/modelling-systems/unified-model) using large volumes of data from multiple sources. Intermediate steps will focus on calibrating a far simpler model, likely a nuclear fusion simulation from [UKAEA](https://www.gov.uk/government/organisations/uk-atomic-energy-authority).
 
 In collaboration with Dr. Matt Graham (UCL), Dr. Mariya Mamajiwala (Sheffield) and Prof. Serge Guillas (UCL).

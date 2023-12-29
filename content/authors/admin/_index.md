@@ -77,5 +77,7 @@ email: ''
 highlight_name: true
 ---
 
-I am a PhD student in the Department of Statistical Science at UCL. Under the supervision of [Prof. Serge Guillas](https://www.ucl.ac.uk/statistics/people/sergeguillas) and in partnership with the [UK Met Office](https://www.metoffice.gov.uk) I research Gaussian Process emulation of weather and climate models and Bayesian Calibration procedures for large simulation models. The goal is to develop tools for calibrating the next generation of [exascale simulation models](https://www.metoffice.gov.uk/research/approach/modelling-systems/lfric).
+I am a PhD candidate in the Department of Statistical Science at UCL. I work under the supervision of [Prof. Serge Guillas](https://www.ucl.ac.uk/statistics/people/sergeguillas) and in partnership with the [UK Met Office](https://www.metoffice.gov.uk) to research Bayesian calibration processes for the next generation of [exascale simulation models](https://www.metoffice.gov.uk/research/approach/modelling-systems/lfric). Consequently, I have experience working with large volumes of data from satellite observations to weather/climate model simulation outputs.
+
+My statistical expertise include Gaussian Process emulation and Bayesian calibration and I am always keen to experiment with the latest developments in computational packages. Much of my work now involves using [Jax](https://jax.readthedocs.io/en/latest/) and [GPJax](https://github.com/JaxGaussianProcesses/GPJax), see my GitHub profile to see my project involving these packages.
 {style="text-align: justify;"}
