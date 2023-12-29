@@ -161,6 +161,14 @@ sections:
       filters:
         folders:
           - event
+        author: ""
+        category: ""
+        tag: ""
+        publication_type: ""
+        featured_only: false
+        exclude_featured: false
+        exclude_future: false
+        exclude_past: false
       sort_by: 'Date'
       sort_ascending: false
     design:
