@@ -172,7 +172,7 @@ sections:
       sort_by: 'Date'
       sort_ascending: false
     design:
-      columns: '1'
+      columns: '2'
       view: compact
   # - block: tag_cloud
   #   content:

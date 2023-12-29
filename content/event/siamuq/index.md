@@ -1,5 +1,5 @@
 ---
-title: SIAM - Embedding High Resolution Variability into a Climate Simulation
+title: SIAM UQ24 - Embedding High Resolution Variability into a Climate Simulation
 
 event: SIAM Conference on Uncertainty Quantification (UQ24)
 event_url: https://www.siam.org/conferences/cm/conference/uq24
@@ -12,7 +12,7 @@ location: Trieste, Italy
 #   postcode: 'd'
 #   country: e
 
-summary: SIAM - Fusion of machine learning and a climate model to embed high resolution variability into a coarse resolution climate simulation.
+summary: Fusion of machine learning and a climate model to embed high resolution variability into a coarse resolution climate simulation.
 abstract: "2.2Underrepresentation of cloud formation is a known failing in current Climate simulations. This is due to the coarse grid resolution which is required due to the computational constraint of integrating over long time scales but does not permit the underlying cloud generating physical processes. This work employs a multi-output Gaussian Process (MOGP) trained on high resolution Unified Model (UM) runs and predicts the variability of temperature and specific humidity fields. A proof of concept study has been carried out where a trained MOGP model is coupled in-situ with a simplified Atmospheric General Circulation Model (AGCM) named SPEEDY. The temperature and specific humidity profiles of the SPEEDY model outputs are perturbed at each timestep according to the predicted high resolution informed variability. 10-year forecasts are generated for both default SPEEDY and fused SPEEDY models and output fields compared ensuring fused predictions remain representative of Earth's atmosphere. Some changes in the precipitation, outgoing longwave and shortwave radiation patterns are observed indicating modelling improvements in the complex region surrounding India and the Indian sea."
 
 # Talk start and end times.
@@ -24,7 +24,7 @@ all_day: false
 # Schedule page publish date (NOT talk date).
 # publishDate: '2017-01-01T00:00:00Z'
 
-authors: []
+authors: [admin]
 tags: []
 
 # Is this a featured talk? (true/false)
