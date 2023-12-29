@@ -13,7 +13,7 @@
 - **Create** slides using Wowchemy's [_Slides_](https://wowchemy.com/docs/managing-content/#create-slides) feature and link using `slides` parameter in the front matter of the talk file
 - **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
 - **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://wowchemy.com/docs/writing-markdown-latex/).
-Further event details, including [page elements](https://wowchemy.com/docs/writing-markdown-latex/) such as image galleries, can be added to the body of this page. --></description></item><item><title>SIAM - Embedding High Resolution Variability into a Climate Simulation</title><link>https://jamesbriant.github.io/talk/siam-embedding-high-resolution-variability-into-a-climate-simulation/</link><pubDate>Wed, 01 Mar 2023 17:00:00 +0000</pubDate><guid>https://jamesbriant.github.io/talk/siam-embedding-high-resolution-variability-into-a-climate-simulation/</guid><description>&lt;div class="alert alert-note">
+Further event details, including [page elements](https://wowchemy.com/docs/writing-markdown-latex/) such as image galleries, can be added to the body of this page. --></description></item><item><title>SIAM UQ24 - Embedding High Resolution Variability into a Climate Simulation</title><link>https://jamesbriant.github.io/talk/siam-uq24-embedding-high-resolution-variability-into-a-climate-simulation/</link><pubDate>Wed, 01 Mar 2023 17:00:00 +0000</pubDate><guid>https://jamesbriant.github.io/talk/siam-uq24-embedding-high-resolution-variability-into-a-climate-simulation/</guid><description>&lt;div class="alert alert-note">
 &lt;div>
 &lt;strong>Coming Soon:&lt;/strong> Slides and video recording coming as soon as paper pre-print is available on Arxiv.
 &lt;/div>
@@ -169,7 +169,7 @@ console.log('code block');
 &lt;p>Wowchemy supports the popular &lt;a href="https://plot.ly/" target="_blank" rel="noopener">Plotly&lt;/a> format for interactive charts.&lt;/p>
 &lt;p>Save your Plotly JSON in your page folder, for example &lt;code>line-chart.json&lt;/code>, and then add the &lt;code>{{&amp;lt; chart data=&amp;quot;line-chart&amp;quot; &amp;gt;}}&lt;/code> shortcode where you would like the chart to appear.&lt;/p>
 &lt;p>Demo:&lt;/p>
-&lt;div id="chart-413895276" class="chart">&lt;/div>
+&lt;div id="chart-526791438" class="chart">&lt;/div>
 &lt;script>
 (function() {
 let a = setInterval( function() {
@@ -178,7 +178,7 @@ return;
 }
 clearInterval( a );
 Plotly.d3.json("./line-chart.json", function(chart) {
-Plotly.plot('chart-413895276', chart.data, chart.layout, {responsive: true});
+Plotly.plot('chart-526791438', chart.data, chart.layout, {responsive: true});
 });
 }, 500 );
 })();
