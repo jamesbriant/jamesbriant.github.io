@@ -18,7 +18,8 @@ abstract: "2.2Underrepresentation of cloud formation is a known failing in curre
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
 date: '2024-03-01T17:00:00Z'
-authordate: '2023-12-029T17:00:00Z'
+# authordate: '2023-12-29T17:00:00Z'
+publishDate: '2023-12-29T09:00:00Z'
 # date_end: '2023-07-19T12:10:00Z'
 all_day: false
 

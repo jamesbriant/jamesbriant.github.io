@@ -18,6 +18,8 @@ abstract: "1Underrepresentation of cloud formation is a known failing in current
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
 date: '2023-07-19T11:50:00Z'
+# authordate: '2023-12-29T17:00:00Z'
+publishDate: '2023-06-01T09:00:00Z'
 # date_end: '2023-07-19T12:10:00Z'
 all_day: false
 
