@@ -157,6 +157,7 @@ sections:
     id: talks
     content:
       title: Recent & Upcoming Talks
+      count: 0 # 0 = all pages
       filters:
         folders:
           - event
