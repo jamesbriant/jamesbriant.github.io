@@ -1,5 +1,5 @@
 ---
-title: Embedding High Resolution Variability into a Climate Simulation
+title: SIAM - Embedding High Resolution Variability into a Climate Simulation
 
 event: SIAM Conference on Uncertainty Quantification (UQ24)
 event_url: https://www.siam.org/conferences/cm/conference/uq24

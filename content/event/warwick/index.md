@@ -1,5 +1,5 @@
 ---
-title: Embedding High Resolution Variability into a Climate Simulation
+title: Warwick - Embedding High Resolution Variability into a Climate Simulation
 
 event: Fusing Simulation with Data Science
 event_url: https://warwick.ac.uk/fac/sci/statistics/news/fsds/
