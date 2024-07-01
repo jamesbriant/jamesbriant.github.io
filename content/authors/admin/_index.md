@@ -14,7 +14,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: PhD Student
+role: PhD Candidate
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -22,11 +22,12 @@ organizations:
     url: https://www.ucl.ac.uk
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include Gaussian Process Emulation, Bayesian Calibration, Numerical Weather Prediction.
+bio: My research interests include Gaussian process emulation, Bayesian optimisation, Bayesian calibration and numerical weather prediction (NWP).
 
 # Interests to show in About widget
 interests:
   - Gaussian Process Emulation
+  - Bayesian Optimisation
   - Bayesian Calibration
   - Numerical Weather Prediction
 
@@ -62,7 +63,7 @@ social:
     link: https://github.com/jamesbriant
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/in/james-briant-795a46171/
+    link: https://www.linkedin.com/in/jbriant
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
@@ -77,7 +78,7 @@ email: ''
 highlight_name: true
 ---
 
-I am a PhD candidate in the Department of Statistical Science at UCL. I work under the supervision of [Prof. Serge Guillas](https://www.ucl.ac.uk/statistics/people/sergeguillas) and in partnership with the [UK Met Office](https://www.metoffice.gov.uk) to research Bayesian calibration processes for the next generation of [exascale simulation models](https://www.metoffice.gov.uk/research/approach/modelling-systems/lfric). Consequently, I have experience working with large volumes of data from satellite observations to weather/climate model simulation outputs.
+I am a PhD candidate in the Department of Statistical Science at UCL working under the supervision of [Prof. Serge Guillas](https://www.ucl.ac.uk/statistics/people/sergeguillas) and in partnership with the [UK Met Office](https://www.metoffice.gov.uk). My research concerns Bayesian calibration processes for the next generation of [exascale simulation models](https://www.metoffice.gov.uk/research/approach/modelling-systems/lfric). Consequently, I have experience working with large volumes of data from satellite observations to weather and climate model simulation outputs.
 
-My statistical expertise include Gaussian Process emulation and Bayesian calibration and I am always keen to experiment with the latest developments in computational packages. Much of my work now involves using [Jax](https://jax.readthedocs.io/en/latest/) and [GPJax](https://github.com/JaxGaussianProcesses/GPJax), see my GitHub profile to see my project involving these packages.
+My statistical expertise include Gaussian Process emulation and Bayesian optimisation and I am always keen to experiment with the latest developments in computational packages. Much of my work now involves using [Jax](https://jax.readthedocs.io/en/latest/) and [GPJax](https://github.com/JaxGaussianProcesses/GPJax), see my GitHub profile to see my project involving these packages.
 {style="text-align: justify;"}
