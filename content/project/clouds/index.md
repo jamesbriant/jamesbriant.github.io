@@ -1,8 +1,9 @@
 ---
-title: Embedding High Resolution Variability into a Climate Simulation
+title: Embedding machine-learnt sub-grid variability improves climate model biases
 summary: Fusion of machine learning and a climate model to embed high resolution variability into a coarse resolution climate simulation.
+A trained Guassian process model is coupled in-situ with a simplified atmospheric general circulation model.
 tags:
-  - Weather
+  - Climate
 date: "2023-08-02T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
@@ -29,9 +30,6 @@ url_video: ''
 #   Otherwise, set `slides = ""`.
 # slides: example
 ---
+The under-representation of cloud formation is a long-standing bias associated with climate simulations. Parameterisation schemes are required to capture cloud processes within current climate models but have known biases. We overcome these biases by embedding a Multi-Output Gaussian Process (MOGP) trained on high resolution Unified Model simulations to represent the variability of temperature and specific humidity within a climate model. A trained MOGP model is coupled in-situ with a simplified Atmospheric General Circulation Model named SPEEDY. The temperature and specific humidity profiles of SPEEDY are perturbed at fixed intervals according to the variability predicted from the MOGP. Ten-year predictions are generated for both control and ML-hybrid models. The hybrid model reduces the global precipitation bias by 18\% and over the tropics by 22\%. To further understand the drivers of these improvements, physical quantities of interest are explored, such as the distribution of lifted index values and the alteration of the Hadley cell. The control and hybrid set-ups are also run in a plus 4K sea-surface temperature experiment to explore the effects of the approach on patterns relating to cloud cover and precipitation in a warmed climate setting.
 
-This project is developing a novel method to improve representation of cloud formation in climate models. Our method changes the simulated climate and reduces bias in hindcasts.
-
-Pre-trained Gaussian Processes learn the temperature and specific humidity fields from high a resolution weather forecast. During the climate model run-time, Gaussian Process predictions add perturbations to climate model fields.
-
-In collaboration with Dr. Dan Giles (UCL), Dr. Cyril Morcrette (UK Met Office) and Prof. Serge Guillas (UCL). An initial paper being readied for submission in early 2024 and more details will be available here after pre-print is available on Arxiv.
+In collaboration with Dr. Dan Giles (UCL), Dr. Cyril Morcrette (UK Met Office) and Prof. Serge Guillas (UCL).
